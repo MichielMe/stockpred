@@ -1,0 +1,6 @@
+pandas
+requests
+scikit-learn
+h2o
+statsmodels
+mplfinance
